@@ -1,5 +1,9 @@
+# Exclude system files and internal checkpoints
+.ipynb_checkpoints/
+.DS_Store
+
+# Exclude large data folders (keeps repo size manageable)
+data/
+
 *.png
 *.csv
-*Report.html
-data/
-.ipynb_checkpoints/
