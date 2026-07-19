@@ -27,7 +27,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn requests
 ## 2. Execution: 
 
 Launch Jupyter from the project root directory: 
-jupyter notebook notebooks/CRC_RealData_Indigo.ipynb
+jupyter notebook notebooks/CRC_RealData.ipynb
 
 ---
 
