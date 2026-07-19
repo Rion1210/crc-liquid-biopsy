@@ -10,7 +10,6 @@ All analyses are conducted on real-world, publicly available datasets; no simula
 ### Repository Contents
 
 - **`notebooks/CRC_RealData.ipynb`** — The primary analysis pipeline for data processing, model training, and performance evaluation.
-- **`CRC_RealData_Report.html`** — A rendered results summary featuring all diagnostic figures.
 - **`prepare_microbiome_data.R`** — R script utilized to generate the microbiome abundance matrices from raw curatedMetagenomicData sources.
 
 - **`data/`** Directory containing the necessary inputs, including processed microbiome matrices and cached cfDNA fragment metrics.
