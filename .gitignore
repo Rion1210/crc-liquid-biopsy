@@ -2,8 +2,9 @@
 .ipynb_checkpoints/
 .DS_Store
 
-# Exclude large data folders (keeps repo size manageable)
-data/
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
 
+# Exclude generated figures/plots
 *.png
-*.csv
