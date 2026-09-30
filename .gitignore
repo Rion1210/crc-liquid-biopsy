@@ -2,9 +2,13 @@
 .ipynb_checkpoints/
 .DS_Store
 
+# Data files (keep raw/processed datasets out of git)
+data/
+
+# Generated figures/plots
+*.png
+*.csv
+
 # Byte-compiled / cache files
 __pycache__/
 *.py[cod]
-
-# Exclude generated figures/plots
-*.png
