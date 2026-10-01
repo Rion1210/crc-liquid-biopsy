@@ -13,7 +13,7 @@ All analyses are conducted on real-world, publicly available datasets; no simula
 - **`prepare_microbiome_data.R`** — R script utilized to generate the microbiome abundance matrices from raw curatedMetagenomicData sources.
 
 - **`data/`** Directory containing the necessary inputs, including processed microbiome matrices and cached cfDNA fragment metrics.
-- **`data/finaledb//`** Directory containing the cached cfDNA fragment-length histograms (344 samples).
+- **`data/finaledb/`** Directory containing the cached cfDNA fragment-length histograms (344 samples).
 ---
 
 ### Technical SetUp & Reproducibility
