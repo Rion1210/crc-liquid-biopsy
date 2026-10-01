@@ -1,0 +1,129 @@
+EE_id,disease,publication,instrument,true_label,proba_CRC_RF,proba_CRC_LR
+EE87883,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.26084227018679407,0.37300972130366294
+EE87951,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.030989493822144765,0.15608180351621526
+EE88071,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0,0.006235598908622216
+EE87890,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.906152149381729,0.8235554079575492
+EE88063,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0,0.010858540710523452
+EE87946,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.025669165163165735,0.19820058838548119
+EE88159,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.3057703862521053,0.4158036282225452
+EE87939,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.04429964940339575,0.026380076558010945
+EE87959,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.9387840243917079,0.6625462557779674
+EE88088,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.03285404130187411,0.07306210042335802
+EE85753,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.9999974546365128
+EE87870,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.9841761013011769,0.990740525323427
+EE88040,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.005670010729986773,0.07734401944591753
+EE88153,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0016278103155110521,0.0715349935530904
+EE86255,Colorectal cancer,"Snyder et al., 2016",HiSeq 2000,Colorectal cancer,0.9777389377821943,0.9999943577797837
+EE87937,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0,0.029295044333442703
+EE88046,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.03862312409299113,0.1675025468921498
+EE88032,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.3172152984962288,0.36959197237862235
+EE87868,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.5666967508951519,0.4938796516224976
+EE88149,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0638565447857743,0.24377514126167105
+EE85731,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.999999929906497
+EE87966,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.06672883732268821,0.05177598013921786
+EE87869,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.5781275689698666,0.5637306075198255
+EE85733,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.9999990935374298
+EE88005,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.008023341240062215,0.051004505309217824
+EE88062,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0,0.054685094132060484
+EE88170,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0014328358208955223,0.02556574748365419
+EE87999,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.010760354452678731,0.11207166810696742
+EE87936,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0,0.09345384954497893
+EE88089,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.3888566671110061,0.28079334720827903
+EE87929,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.15220077031627274,0.2940061596254971
+EE87879,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.17919181741524173,0.379101787043762
+EE85737,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.9999998111903282
+EE88105,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0009113924050632911,0.02573881142095855
+EE87865,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.9972889110071477,0.9606111030256981
+EE88073,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0018227848101265822,0.04638369379045489
+EE87987,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0,0.05727853615062918
+EE87872,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.9221180795722269,0.5996430702872633
+EE88036,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0,0.09446542397893642
+EE87996,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.08371372164395009,0.04045099701440405
+EE85726,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.999999634699891
+EE86234,Colorectal cancer,"Snyder et al., 2016",HiSeq 2000,Colorectal cancer,0.9997401812688822,0.9999962860524823
+EE88091,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.010327717984996949,0.1416380700481823
+EE87940,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.007636348189995118,0.07336799122445467
+EE88035,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0,0.07807728242044654
+EE88106,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.030638411679828545,0.15850068680134485
+EE88130,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.11954505776652423,0.1953000701894663
+EE87871,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.08025260386146871,0.2309794869571836
+EE88114,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0042675189618640395,0.05633873794201225
+EE87886,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.9917446862788671,0.8717515571059815
+EE87967,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.024211995718639686,0.18103958622221267
+EE85746,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.9999989187773453
+EE85732,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.9999994818198535
+EE88096,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.000911392405063291,0.042308311886358786
+EE87945,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0798006982109279,0.27421791936280365
+EE88127,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.3492258639861646,0.4292857768520797
+EE87874,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.9719165362103651,0.968584064526701
+EE88134,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.012248391217189545,0.02717019121635619
+EE85750,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.999998525825665
+EE88115,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0033645308924485124,0.028875622862126492
+EE88057,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.036637401781734066,0.20621568252497882
+EE88154,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.7565047276236474,0.5555995751145878
+EE87889,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.998017145828724,0.9715086682612802
+EE88146,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0072652338275990954,0.0762723639133851
+EE87885,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.0017866004962779158,0.15991848648355483
+EE88169,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.14901445291515591,0.24387118186963214
+EE87873,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.9768561129973835,0.9466220112893056
+EE87887,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.9976232632733717,0.9289492431420395
+EE88003,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0,0.02042583171038948
+EE88011,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.08370139224158345,0.22964868023078516
+EE88160,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0025950520068167126,0.022170229072969314
+EE87875,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.607803725883043,0.5693692829513775
+EE87878,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.5017611961954456,0.4075123585720915
+EE88129,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.06255054485723488,0.218687181539924
+EE87998,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.27676988280349013,0.26484506230241084
+EE86259,Colorectal cancer,"Snyder et al., 2016",HiSeq 2000,Colorectal cancer,1.0,0.9999990525922081
+EE88058,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.03116628438055541,0.16571700345122672
+EE87867,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.7172959899934581,0.5067222830708833
+EE85723,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.9999999924368116
+EE87877,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.6244462865975712,0.5978001330923226
+EE87891,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.9992850055684924,0.9950813705659649
+EE88102,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.10007364489390715,0.10037307787751935
+EE88181,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.25314383551204656,0.35091427979869594
+EE87954,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.004702769038681113,0.0715693091554684
+EE85739,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.9999995728555015
+EE85752,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.9999979474445796
+EE87988,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0,0.0920844549989502
+EE88152,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0043230934479054775,0.09850480393041965
+EE87976,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.009446733315306516,0.044822705759067695
+EE88039,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.2992922140665046,0.26651664914578005
+EE85727,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.9999997239444809
+EE88113,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.5485506687556579,0.41613795825236904
+EE88136,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.5876592811087067,0.3622314570188326
+EE88117,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.010270431982960739,0.18037997772627415
+EE87884,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.9931429686992984,0.9983376794731933
+EE87881,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.9932976218625404,0.995966059207411
+EE85743,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.9999973790502725
+EE87876,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.9835317336845599,0.7930636151105739
+EE87888,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.9987663709120661,0.9742072754238247
+EE85724,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.9999993709341655
+EE87994,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.12988094394150587,0.26325391459432745
+EE88174,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.3358273728282246,0.33041059092147684
+EE88007,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.1275169644587052,0.16250425767231996
+EE88167,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.010756690716187435,0.030928614356330212
+EE85749,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.9999999527966443
+EE87931,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.07713834930434349,0.19028653739986623
+EE85734,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,1.0
+EE88017,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.018360874620880853,0.05400800142422418
+EE87880,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.23298303340416274,0.2932442577237658
+EE85730,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,0.9658782713251904,0.7268862113263228
+EE88061,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0,0.02240840846536673
+EE87866,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.43324597289699784,0.43838018449304056
+EE88151,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.000911392405063291,0.08162484818853658
+EE87981,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.28280386359881743,0.2554948880701937
+EE87926,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.04237547773563646,0.05671769718772432
+EE87882,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,Colorectal cancer,0.9939848387347135,0.9579374693991779
+EE88038,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.06491000534854714,0.12920468146342468
+EE88013,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.05766695043487287,0.16915209187236352
+EE88067,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.19964319107541734,0.21000514681083393
+EE88100,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.30980813777310057,0.4477051145818401
+EE88080,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.8034896256788587,0.5730895941780958
+EE88034,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.10599204460695075,0.26875093099054703
+EE87989,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.028949528884244177,0.2187573809148301
+EE88069,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0,0.007584423223437759
+EE88025,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.0351963657240817,0.21043719487584442
+EE88030,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.009446733315306516,0.04112138836633865
+EE85741,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,Colorectal cancer,1.0,0.9999993947075685
+EE88000,Healthy,"Cristiano et al., 2019",HiSeq 2000,Healthy,0.38485430631273715,0.29365324772034257
