@@ -3,7 +3,7 @@
 This folder contains a complete, runnable tutorial that builds **two independent cancer classifiers** from real public data:
 
 - **Part A** — gut microbiome (stool species) → CRC vs healthy, AUC ≈ 0.82
-- **Part B** — cfDNA fragment lengths (blood plasma) → CRC vs healthy, AUC ≈ 0.97
+- **Part B** — cfDNA fragment lengths (blood plasma) → CRC vs healthy, AUC ≈ 0.96 pooled / 0.94 within-lab
 
 All analyses are conducted on real-world, publicly available datasets; no simulations were used in this pipeline.
 
