@@ -1,0 +1,129 @@
+EE_id,disease,publication,instrument,readlen
+EE85723,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85724,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85726,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85727,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85730,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85731,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85732,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85733,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85734,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85737,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85739,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85741,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85743,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85746,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85749,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85750,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85752,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE85753,Colorectal cancer,"Sun et al., 2019",HiSeq 2000,75
+EE86234,Colorectal cancer,"Snyder et al., 2016",HiSeq 2000,42
+EE86255,Colorectal cancer,"Snyder et al., 2016",HiSeq 2000,43
+EE86259,Colorectal cancer,"Snyder et al., 2016",HiSeq 2000,50
+EE87865,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87866,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87867,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87868,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87869,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87870,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87871,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87872,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87873,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87874,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87875,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87876,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87877,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87878,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87879,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87880,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87881,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87882,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87883,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87884,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87885,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87886,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87887,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87888,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87889,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87890,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE87891,Colorectal cancer,"Cristiano et al., 2019",HiSeq 2000,100
+EE88169,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88136,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88115,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88089,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87987,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88058,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88096,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88181,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87929,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88035,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87945,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88146,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87967,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88127,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88113,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88174,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88000,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87926,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88130,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87988,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88061,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88067,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87940,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88134,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88032,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88071,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87999,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87989,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88011,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87936,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87951,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88114,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88151,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88030,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87954,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88106,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87994,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88159,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88129,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87931,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88170,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87966,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88038,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87996,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87946,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88080,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88153,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87939,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88007,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88062,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88167,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88091,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88034,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88100,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88036,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88017,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88154,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87981,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87937,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87976,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88069,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88117,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88149,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88003,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88105,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87959,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88063,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88025,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88152,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE87998,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88039,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88102,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88057,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88088,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88013,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88046,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88073,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88005,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88160,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
+EE88040,Healthy,"Cristiano et al., 2019",HiSeq 2000,100
